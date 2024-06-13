@@ -6,6 +6,7 @@ It's my bachelor's project under the supervision of Dr. Parham Moradi. The purpo
 
 
 
+
 ## Mined data
 
 •	Movie title
